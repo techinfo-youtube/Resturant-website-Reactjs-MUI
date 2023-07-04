@@ -25,6 +25,10 @@ const Contact = () => {
           beatae ducimus magni nobis culpa praesentium velit expedita quae,
           corrupti, pariatur inventore laboriosam consectetur modi impedit
           error, repudiandae obcaecati doloribus.
+          <p>
+            Nice Website Tut!🫡 Please reach out to me If you are available for a
+            project. Thanks
+          </p>
         </p>
       </Box>
       <Box
